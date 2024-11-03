@@ -2,6 +2,8 @@
 
 This is a Next.js project that allows users to transform YouTube videos into engaging PowerPoint presentations. The application leverages the Gemini API for generating titles, descriptions, and slide content based on the video transcripts.
 
+![Screenshot 2024-11-04 043941](https://github.com/user-attachments/assets/c0e2c526-911e-4e9a-935d-a2238dcbae8f)
+
 ## Features
 
 -   **YouTube Video Integration**: Easily input a YouTube video URL to generate a presentation.
